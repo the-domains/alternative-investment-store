@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alternative Investment Store]]></title>
+        <description><![CDATA[Alternative Investment Store]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 17:46:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alternative Investment Store]]></title>
+            <description><![CDATA[<article><h1>Alternative Investment Store</h1><p>Business Purpose To Reform the Alternative Investment Industry through the creation of a Strikingly Different Environment of Collaboration, Professional Growth, Influential Marketing, and Servant Leadership.Who We Are We are ambassadors of change in a growth industry. We are dedicated professionals committed to educating Individual and Institutional Investors about the Power and Necessity of Alternative Investments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c85fa1a0c9f027e9d1747c12702413ecb992d097.jpg"></article>]]></description>
+            <link>http://alternativeinvestmentstore.com/</link>
+            <guid isPermaLink="false">c1479018-591f-4bdf-8a72-682339faa268</guid>
+            <pubDate>Fri, 20 May 2016 17:46:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
