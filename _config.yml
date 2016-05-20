@@ -1,14 +1,14 @@
-layout_spectrum: 0.24116990878246725
-typography_spectrum: 0.4247440209146589
+layout_spectrum: 0.14419819903559983
+typography_spectrum: 0.9223075977060944
 color:
-  brandStrength: 0.19439925020560622
-  lightness: 0.09426973084919155
-  saturation: 0.7199277526233345
-  rhythmicContrast: 0.2723624042700976
+  brandStrength: 0.14916971023194492
+  lightness: 0.5123203881084919
+  saturation: 0.05962519161403179
+  rhythmicContrast: 0.01903351629152894
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: Alternative Investment Store
