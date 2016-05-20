@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://alternativeinvestmentstore.com/'
 title: Alternative Investment Store
-datePublished: '2016-05-20T17:46:30.993Z'
-dateModified: '2016-05-20T17:28:22.751Z'
-starred: false
+datePublished: '2016-05-20T18:27:19.414Z'
+dateModified: '2016-05-20T18:27:19.110Z'
 sourcePath: _posts/2016-05-20-alternative-investment-store.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
